@@ -8,6 +8,8 @@
 * [ ] Set a dinner date with a friend for mid-June 2017
 * [x] Begin familiarization with GitHub
 * [ ] Join Mendeley group 
+* [ ] Baby pic
+* [ ] Draft of bio
 
 ### Readin'
 - During all reading, assemble a glossary as needed of new terminology.  Be cautious of overloaded terms (contextually dependent meanings are common).
