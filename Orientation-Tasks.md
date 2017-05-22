@@ -7,7 +7,7 @@
    * [ ] Health ins & any etc
 * [ ] Set a dinner date with a friend for mid-June 2017
 * [x] Begin familiarization with GitHub
-* [ ] Join Mendeley group 
+* [x] Join Mendeley group 
 * [ ] Baby pic
 * [ ] Draft of bio
 
