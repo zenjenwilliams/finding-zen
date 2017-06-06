@@ -10,6 +10,8 @@
 * [x] Join Mendeley group 
 * [ ] Baby pic
 * [ ] Draft of bio
+* [x] Complete Slack profile incl phone number
+* [ ] Obtain access to all productivity tools
 
 ### Readin'
 - During all reading, assemble a glossary as needed of new terminology.  Be cautious of overloaded terms (contextually dependent meanings are common).
