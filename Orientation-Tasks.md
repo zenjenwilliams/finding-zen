@@ -2,16 +2,16 @@
 
 ### General
 * [x] Set up email on computer & phone
-* [ ] Complete Trinet tasks
+* [x] Complete Trinet tasks
    * [x] I9 & W4
-   * [ ] Health ins & any etc
+   * [x] Health ins & any etc
 * [ ] Set a dinner date with a friend for mid-June 2017
 * [x] Begin familiarization with GitHub
 * [x] Join Mendeley group 
 * [ ] Baby pic
-* [ ] Draft of bio
+* [x] Draft of bio
 * [x] Complete Slack profile incl phone number
-* [ ] Obtain access to all productivity tools
+* [x] Obtain access to all productivity tools: Slack, Volley calendar, Trello, Placker, Wiki
 
 ### Readin'
 - During all reading, assemble a glossary as needed of new terminology.  Be cautious of overloaded terms (contextually dependent meanings are common).
