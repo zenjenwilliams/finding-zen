@@ -2,20 +2,19 @@
 
 
   
-  
- ### Volley Differentiators
- * Personalization
+### Volley Differentiators
+* Personalization
    * The 5 right resources for you, not 1.2bn "matching" ones
    * Collaborative filtering and tagging of resources
- * Adaptability (of style of delivery) -  improves as you use it / give feedback
- * Presentation
+* Adaptability (of style of delivery) -  improves as you use it / give feedback
+* Presentation
    * microlearning (e.g. excerpt right 3 min from 20 min video)
    * mobile-first, gamification, learning-driven content
- * Verifiability
+* Verifiability
    * Analytics, BI 
    * Assessments
- * Pedagogy
- * auto-generated content
+* Pedagogy
+* auto-generated content
  
  
  ### Volley Product Commitments
