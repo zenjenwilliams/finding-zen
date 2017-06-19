@@ -102,6 +102,12 @@
 
 
 ## Specific technical commitments
-* Presenting appropriate fragments of material in response to demonstrated needs (search or quiz performance)
+* Presenting appropriate fragments of material in response to demonstrated needs (search, or quiz performance - "knowledge gap detection")
   * Incl cutting down longer videos to salient part
 * Collaborative filtering and tagging of resources
+* automated ingest & content organization (downplaying the need for corporate SME assistance, much manual work, or additional resources)
+* personalization (e.g. knowledge gap detection influencing resource recommendations)
+* latent pedagogy
+* ontology induction
+* SRL statistical relational learning
+* auto-question generation
