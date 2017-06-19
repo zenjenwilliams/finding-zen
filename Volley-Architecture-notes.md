@@ -2,7 +2,8 @@
 
 
 #### More info: 
-* Notebook 1 p 4 Nik on tech infra
+* [ ] Notebook 1 p 4 Nik on tech infra
+* [ ] Notebook 1 p 14b infra & dev practices
 
   
 ### Volley Differentiators
@@ -69,12 +70,17 @@
 * Experts on demand
 * Using our data on alternative resource composition / learning pathways to find "the best under xyz conditions"
  
-## Technical positions
+## Technical positions on CG
 * CG purpose overall:
  * Find concordances, interpolate, and re-present information fragments
  * A source of truth for truths that keyword searching will not reveal:
    * personalized - by interpolating from user profile features
    * flexible pathways
+* The CG contains propositions
+* ? How capture ordering, granularity, dependence btw propositions, proposition calculus (e.g. combinations)
+* ? Provenance, source reliability / characterization?
+* ? Where incorporate basic (not sensible to induce) logic e.g. mereology, system of measures, org & social relationships?
+
 
 
 ## Specific technical commitments
