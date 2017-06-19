@@ -1,4 +1,6 @@
-# Volley Architecture notes and committments
+# Volley Architecture notes and commitments
+
+
   
   
  ### Volley Differentiators
@@ -24,6 +26,24 @@
  * Volley's improvement over search is smart search (search over related terms, soon graph powered)
  * Volley's technology is subject matter agnostic
 
+
+### Metrics for content quality ("fit for purpose")
+ * Coverage/scope
+ * Currency
+ * Correctness
+ * Personalization
+ 
+#### Automated Measures for content quality
+ * tools for language clarity, readability
+ * user conversion after experiencing content
+ * content unit completion (vs. dropping)
+ * pace of consumption
+
+#### Manual Measures / user feedback
+ * quality of personalization (leverages what I know, fills in what I don't)
+ * pedagogic progression (was this presented in the right order)
+ * content is readily findable
+ * content has verifiability (backup / provenance)
 
 
 ### Off-track
