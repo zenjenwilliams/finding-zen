@@ -4,8 +4,14 @@
 #### More info: 
 * [ ] Notebook 1 p 4 Nik on tech infra
 * [ ] Notebook 1 p 14b infra & dev practices
+* [ ] https://gist.github.com/nikvdp/b0b1adfd340c6e68045fefbabedc18ee#file-volley-sources-md
 
-  
+
+#### Tech infrastructure tools:
+* [ ] [draw.io](https://www.draw.io)
+
+
+
 ### Volley Differentiators
 * Personalization
    * The 5 right resources for you, not 1.2bn "matching" ones
@@ -45,6 +51,18 @@
 * **Access**
 * **Engagement**
 * **Personalization**
+
+#### Major Capability Areas & the features that drive them
+* Smart Search (driven by RED - "recursive exploratory drilldown")
+ * Contextual - personalization, relevance
+  * Role based access control? - search w/in partitions, incorporating access rules?
+ * Over internal content - unstructured & structured data
+ * Taking into account resource freshness & other quality measures (e.g. popularity, resource @ which other searches terminate)
+* Smart Collections - cluster affiliated resources according to TiDDBit - o lead to Microbriefings / microcourses
+ * Coalescing sources to cover areas
+ * Incorporate experts
+ * Use templates to help with quality measures? (E.g. history of ..., current events in ...)
+* Assessments
 
 ### Metrics for content quality ("fit for purpose")
  * Coverage/scope
