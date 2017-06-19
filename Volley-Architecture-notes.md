@@ -1,13 +1,16 @@
 # Volley Architecture notes and commitments
 
 
+#### More info: 
+* Notebook 1 p 4 Nik on tech infra
+
   
 ### Volley Differentiators
 * Personalization
    * The 5 right resources for you, not 1.2bn "matching" ones
    * Collaborative filtering and tagging of resources
 * Adaptability (of style of delivery) -  improves as you use it / give feedback
-* Presentation
+* Engagement / Presentation
    * microlearning (e.g. excerpt right 3 min from 20 min video)
    * mobile-first, gamification, learning-driven content
 * Verifiability
@@ -15,16 +18,32 @@
    * Assessments
 * Pedagogy
 * auto-generated content
+* Users engage in effective learning actions (e.g. assessments/games)
  
  
  ### Volley Product Commitments
  * Volley is a primary learning resource for professional training
+   * To progress from being a 2nd / supplementary resource to a primary source, need to add:
+     * pedagogy
+     * content coverage: curriculum or use case coverage
+     * content / knowledge base
  * Volley is mobile first (Master Interface is not a mobile interface)
  * The future of assessments is automatic quiz generation
  * Volley's improvements over usual microcourses are: personalization, form factor, auto-generated content (inexpensive) incorporating pedagogy, quiz driven recommendations
  * Volley's improvement over search is smart search (search over related terms, soon graph powered)
  * Volley's technology is subject matter agnostic
 
+### Value prop / problems V seeks to solve
+* Expensive to make online training content
+* Indeterminate value of online training content to you
+* Access to the material you need (e.g. Khan Academy - narrow focus)
+* Non-pedagogical presentation (e.g. Wikipedia)
+* Uneven content (e.g. Wolfram Alpha)
+* Delivery problems (e.g. LMSs)
+
+* **Access**
+* **Engagement**
+* **Personalization**
 
 ### Metrics for content quality ("fit for purpose")
  * Coverage/scope
@@ -50,3 +69,15 @@
 * Experts on demand
 * Using our data on alternative resource composition / learning pathways to find "the best under xyz conditions"
  
+## Technical positions
+* CG purpose overall:
+ * Find concordances, interpolate, and re-present information fragments
+ * A source of truth for truths that keyword searching will not reveal:
+   * personalized - by interpolating from user profile features
+   * flexible pathways
+
+
+## Specific technical commitments
+* Presenting appropriate fragments of material in response to demonstrated needs (search or quiz performance)
+  * Incl cutting down longer videos to salient part
+* Collaborative filtering and tagging of resources
