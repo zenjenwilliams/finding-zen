@@ -51,18 +51,9 @@
 * GitHub - familiarize with structure, review a project (https://github.com/volleylabs)
 * Read [Inducible Question Variants spreadsheet](https://docs.google.com/spreadsheets/d/1iuEQ6wVCaqF7lJgfK9p5W11aarKuOFTBjkD5L0T1o2U/edit#gid=0)
    - Note 'close questions', properties
-  
-  
- ### Volley Differentiators
- * Personalization
-   * The 5 right resources for you, not 1.2bn "matching" ones
-   * Collaborative filtering and tagging of resources
- * Adaptability (of style of delivery) -  improves as you use it / give feedback
- * Presentation
-   * microlearning (e.g. excerpt right 3 min from 20 min video)
-   * mobile-first, gamification, learning-driven content
- * Verifiability
-   * Analytics, BI 
- * Pedagogy
- * auto-generated content
+
+### Also:
+* TiDDBit: Topical difficulty, depth, breadth, texture (of content)
+* 
+
  
