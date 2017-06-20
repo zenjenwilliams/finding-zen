@@ -63,6 +63,7 @@
  * Incorporate experts
  * Use templates to help with quality measures? (E.g. history of ..., current events in ...)
 * Assessments
+* Question Answering
 
 ### Metrics for content quality ("fit for purpose")
  * Coverage/scope
@@ -111,3 +112,5 @@
 * ontology induction
 * SRL statistical relational learning
 * auto-question generation
+* "personalization and pedagogy are too complex - they are worth experimenting with but must not be the substance of our offering" (Carson 5/23/17)
+
