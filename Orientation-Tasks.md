@@ -20,6 +20,7 @@
 * [ ] Read Michael Porter "What is Strategy" (in my Mendeley library)
 * [ ] Read [Volley Whitepaper](http://volley.so/enterprise-whitepaper-v2B)
 * [ ] A Graph-Based Approach to Skill Extraction from Text
+* [ ] Notebook 1 p 28b EdTech business landscape - research noted companies
 
 #### Concept Graph
 - including footnotes
