@@ -5,6 +5,7 @@
 * [ ] Notebook 1 p 4 Nik on tech infra
 * [ ] Notebook 1 p 14b infra & dev practices
 * [ ] https://gist.github.com/nikvdp/b0b1adfd340c6e68045fefbabedc18ee#file-volley-sources-md
+* [ ] https://github.com/volleylabs/cmdline-convenience-scripts/wiki
 
 
 #### Tech infrastructure tools:
@@ -39,6 +40,7 @@
  * Volley's improvements over usual microcourses are: personalization, form factor, auto-generated content (inexpensive) incorporating pedagogy, quiz driven recommendations
  * Volley's improvement over search is smart search (search over related terms, soon graph powered)
  * Volley's technology is subject matter agnostic
+ 
 
 ### Value prop / problems V seeks to solve
 * Expensive to make online training content
@@ -113,4 +115,6 @@
 * SRL statistical relational learning
 * auto-question generation
 * "personalization and pedagogy are too complex - they are worth experimenting with but must not be the substance of our offering" (Carson 5/23/17)
+* Volley focuses on content (as opposed to concepts - which are too isolated and noncontextual in themselves - or to context - which does not yet have enough tools & support
+
 
