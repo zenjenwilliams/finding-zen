@@ -2,13 +2,13 @@
 
 ### General
 * [x] Set up email on computer & phone
-* [x] Complete Trinet tasks
+* [x] Complete Trinet tasks  http://login.trinet.com/
    * [x] I9 & W4
    * [x] Health ins & any etc
-* [ ] Set a dinner date with a friend for mid-June 2017
+* [x] Set a dinner date with a friend for mid-June 2017
 * [x] Begin familiarization with GitHub
 * [x] Join Mendeley group 
-* [ ] Baby pic
+* [x] Baby pic
 * [x] Draft of bio
 * [x] Complete Slack profile incl phone number
 * [x] Obtain access to all productivity tools: Slack, Volley calendar, Trello, Placker, Wiki
